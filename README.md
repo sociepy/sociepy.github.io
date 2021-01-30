@@ -8,6 +8,8 @@
 
 SociePy proposes a space of collaborative data science projects linked to social, environmental analysis and open data 🌍🍃📊
 
+For more information, check our [GitHub page](github.com/sociepy).
+
 ### Projects
 
 | Project name | Description |
