@@ -4,7 +4,7 @@
 
 ---
 
-### Welcome to SociePy's webpage!
+### Welcome to SociePy's webpage!
 
 SociePy proposes a space of collaborative data science projects linked to social, environmental analysis and open data 🌍🍃📊
 
