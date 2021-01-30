@@ -8,11 +8,11 @@
 
 SociePy proposes a space of collaborative data science projects linked to social, environmental analysis and open data 🌍🍃📊
 
-For more information, check our [GitHub page](github.com/sociepy).
+For more information, check our [GitHub page](https://github.com/sociepy).
 
 ### Projects
 
 | Project name | Description |
 |- |- |
 | [covid19-vaccination-subnational](https://sociepy.org/covid19-vaccination-subnational) |  🌍💉 Global COVID-19 vaccination data at the regional level.  |
-| [whatstk](whatstk.lcsrg.me) | Python toolkit to analyse and parse WhatsApp chats. |
+| [whatstk](https://whatstk.lcsrg.me) | Python toolkit to analyse and parse WhatsApp chats. |
