@@ -6,7 +6,7 @@
 
 ### Welcome to SociePy's webpage!
 
-SociePy proposes a space of collaborative data science projects linked to social, environmental analysis and open data 🌍🍃📊
+SociePy is a little and horizontal space for collaborative data science projects linked to social, environmental analysis, open sciences and open data 🌍🍃📊
 
 For more information, check our [GitHub page](https://github.com/sociepy).
 
