@@ -22,5 +22,4 @@ We are a team of open source enthusiasts, willing to contribute to a better worl
 
 If you like some of our projects, have some project proposal or need help for some project that shares our values, reach us out 😄!
 
-
-
+![](mail.png)
