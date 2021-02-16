@@ -4,7 +4,9 @@
 
 ---
 
-### Welcome to SociePy's webpage!
+### SociePy
+
+<a class="github-button" href="https://github.com/sociepy" data-color-scheme="no-preference: light; light: dark; dark: light;" data-size="large" aria-label="Follow @sociepy on GitHub">Follow @sociepy</a>
 
 SociePy is a little and horizontal space for collaborative data science projects linked to social, environmental analysis, open sciences and open data 🌍🍃📊.
 
